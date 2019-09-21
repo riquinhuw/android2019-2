@@ -4,7 +4,7 @@ Compilado das atividades da cadeira Computação para Dispositivos Moveis.
 
 --------------------
 
-##Revisão 1:
+## Revisão 1:
 _Data de inicio: 19/09/2019_
 
 **Atividades**:
